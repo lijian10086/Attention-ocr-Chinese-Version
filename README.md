@@ -62,3 +62,5 @@ python demo_inference.py --batch_size=32 \
   --checkpoint=model.ckpt-399731\
   --image_path_pattern=./datasets/data/fsns/temp/fsns_train_%02d.png
 ```
+##李剑备注：
+1、https://blog.csdn.net/qq_40003316/article/details/80062023 代码对应博客：基于注意力模型和卷积循环神经网络的中文自然场景文本识别
